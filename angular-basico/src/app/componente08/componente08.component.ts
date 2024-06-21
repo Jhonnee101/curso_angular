@@ -9,4 +9,10 @@ import { Component } from '@angular/core';
 })
 export class Componente08Component {
 
+  //Variavel de media
+  media:number = 8
+
+  linguagem:string = 'CSS'
+
+  nomes:string[] = ['Joao', 'Maria', 'Julio','Bruno']
 }
